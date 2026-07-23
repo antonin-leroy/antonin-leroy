@@ -5,10 +5,10 @@
     .arm { transform-origin: 231.9px 217.0px; animation: wave 3s ease-in-out infinite; }
     @keyframes wave {
       0%   { transform: rotate(0deg); }
-      10%  { transform: rotate(7deg); }
-      20%  { transform: rotate(-4deg); }
-      30%  { transform: rotate(7deg); }
-      40%  { transform: rotate(-4deg); }
+      10%  { transform: rotate(10deg); }
+      20%  { transform: rotate(-6deg); }
+      30%  { transform: rotate(10deg); }
+      40%  { transform: rotate(-6deg); }
       50%  { transform: rotate(0deg); }
       100% { transform: rotate(0deg); }
     }
@@ -31,18 +31,18 @@
     <text xml:space="preserve" x="24" y="251">  :%@@* %=:+******++%</text>
     <text xml:space="preserve" x="24" y="266">  =%@%   %-+******+%</text>
     <text xml:space="preserve" x="24" y="281"> =*%%#    @#*****#@</text>
-    <text xml:space="preserve" x="24" y="296"> =*#%%</text>
-    <text xml:space="preserve" x="24" y="311"> :+**#</text>
-    <text xml:space="preserve" x="24" y="326"> -#%##</text>
-    <text xml:space="preserve" x="24" y="341"> +#+%</text>
-    <text xml:space="preserve" x="24" y="356"> ++**</text>
-    <text xml:space="preserve" x="24" y="371"> =-*   --#@%*</text>
-    <text xml:space="preserve" x="24" y="386"> ++=   ---=#%#</text>
-    <text xml:space="preserve" x="24" y="401">**#*=- -=--=*@</text>
-    <text xml:space="preserve" x="24" y="416">%%*% = -====*%</text>
-    <text xml:space="preserve" x="24" y="431">-=+     ====+*</text>
-    <text xml:space="preserve" x="24" y="446"> =++    -=*#*+</text>
-    <text xml:space="preserve" x="24" y="461">         =###*</text>
+    <text xml:space="preserve" x="24" y="296"> =*#%%   #%%@@@@@#@%</text>
+    <text xml:space="preserve" x="24" y="311"> :+**#  +**%@@@@@%#%#</text>
+    <text xml:space="preserve" x="24" y="326"> -#%##  %%%***##*#%%</text>
+    <text xml:space="preserve" x="24" y="341"> +#+%   %*+########*@=</text>
+    <text xml:space="preserve" x="24" y="356"> ++**  -+%@@%@##%#%%##-</text>
+    <text xml:space="preserve" x="24" y="371"> =-*   --#@%*   %#+**+--</text>
+    <text xml:space="preserve" x="24" y="386"> ++=   ---=#%#    %#*----</text>
+    <text xml:space="preserve" x="24" y="401">**#*=- -=--=*@    %%%=----</text>
+    <text xml:space="preserve" x="24" y="416">%%*% = -====*%     #%#----</text>
+    <text xml:space="preserve" x="24" y="431">-=+     ====+*      #*--+*=</text>
+    <text xml:space="preserve" x="24" y="446"> =++    -=*#*+       ===***=</text>
+    <text xml:space="preserve" x="24" y="461">         =###*        *+**#%%</text>
     <g class="arm">
     <text xml:space="preserve" x="301.2" y="131">++</text>
     <text xml:space="preserve" x="293.5" y="146">=*+*</text>
@@ -55,18 +55,6 @@
     <text xml:space="preserve" x="208.8" y="251">++%*#%##</text>
     <text xml:space="preserve" x="208.8" y="266">#+##*###</text>
     <text xml:space="preserve" x="208.8" y="281">@*#%@%@</text>
-    <text xml:space="preserve" x="93.3" y="296">#%%@@@@@#@%</text>
-    <text xml:space="preserve" x="85.6" y="311">+**%@@@@@%#%#</text>
-    <text xml:space="preserve" x="85.6" y="326">%%%***##*#%%</text>
-    <text xml:space="preserve" x="85.6" y="341">%*+########*@=</text>
-    <text xml:space="preserve" x="77.9" y="356">-+%@@%@##%#%%##-</text>
-    <text xml:space="preserve" x="147.2" y="371">%#+**+--</text>
-    <text xml:space="preserve" x="162.6" y="386">%#*----</text>
-    <text xml:space="preserve" x="162.6" y="401">%%%=----</text>
-    <text xml:space="preserve" x="170.3" y="416">#%#----</text>
-    <text xml:space="preserve" x="178.0" y="431">#*--+*=</text>
-    <text xml:space="preserve" x="185.7" y="446">===***=</text>
-    <text xml:space="preserve" x="193.4" y="461">*+**#%%</text>
     </g>
   </g>
 </svg>
