@@ -1,14 +1,3 @@
-<table>
-<tr>
-<td valign="top">
+![Antonin Leroy](robot-card.svg)
 
-![robot qui fait coucou](robot-wave.svg)
-
-</td>
-<td valign="top">
-
-![infos](info-card.svg)
-
-</td>
-</tr>
-</table>
+[GitHub](https://github.com/antonin-leroy) · [LinkedIn](https://www.linkedin.com/in/antonin-leroy) · [antonin.leroy02@gmail.com](mailto:antonin.leroy02@gmail.com)
