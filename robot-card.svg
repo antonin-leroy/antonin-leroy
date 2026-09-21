@@ -37,7 +37,7 @@
   <text class="voice" x="428" y="137"> He's getting better at picking me back up."</text>
 
   <text xml:space="preserve" class="t" x="428" y="174"><tspan class="key">operator</tspan><tspan class="val"> ......... Antonin Leroy</tspan></text>
-  <text xml:space="preserve" class="t" x="428" y="193"><tspan class="key">role</tspan><tspan class="val"> ............. MSc Robotics @ ETH Zurich</tspan></text>
+  <text xml:space="preserve" class="t" x="428" y="193"><tspan class="key">role</tspan><tspan class="val"> ............. MSc specialization in Robotics @ ETH Zurich</tspan></text>
   <text xml:space="preserve" class="t" x="428" y="212"><tspan class="key">focus</tspan><tspan class="val"> ............ RL &amp; sim-to-real for legged and</tspan></text>
   <text xml:space="preserve" class="t val" x="428" y="231">                   humanoid robots</text>
   <text xml:space="preserve" class="t" x="428" y="250"><tspan class="key">also</tspan><tspan class="val"> ............. ROS 2, perception, control on real arms</tspan></text>
