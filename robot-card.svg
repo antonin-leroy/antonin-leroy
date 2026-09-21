@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" font-family="'Courier New', Consolas, 'DejaVu Sans Mono', monospace">
+  <style>
+    .bg     { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+    .bubble { fill: #161b22; stroke: #30363d; stroke-width: 1; }
+    .art    { font-size: 13px; fill: #39d353; }
+    .t      { font-size: 13px; }
+    .voice  { font-size: 13px; fill: #39d353; }
+    .key    { fill: #e3b341; }
+    .val    { fill: #c9d1d9; }
+    .head   { fill: #e6edf3; font-weight: bold; }
+    .dim    { fill: #6e7681; }
+    .arm    { transform-origin: 231.9px 217.0px; animation: wave 3s ease-in-out infinite; }
+    @keyframes wave {
+      0%   { transform: rotate(0deg); }
+      10%  { transform: rotate(10deg); }
+      20%  { transform: rotate(-6deg); }
+      30%  { transform: rotate(10deg); }
+      40%  { transform: rotate(-6deg); }
+      50%  { transform: rotate(0deg); }
+      100% { transform: rotate(0deg); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .arm { animation: none; }
+    }
+  </style>
+
+  <rect class="bg" x="0.5" y="0.5" width="999" height="499" rx="16" />
+
+  <!-- speech bubble, tail pointing at the robot's head -->
+  <path class="bubble" d="M 418,46 H 946 Q 960,46 960,60 V 338 Q 960,352 946,352 H 418
+                          Q 404,352 404,338 V 152 L 368,126 L 404,100 V 60 Q 404,46 418,46 Z" />
+
+  <text class="t head"  x="428" y="72">antonin-leroy@github</text>
+  <text class="t dim"   x="428" y="91">------------------------------------------------------</text>
+
+  <text class="voice" x="428" y="118">"I'm the one he keeps knocking over in simulation.</text>
+  <text class="voice" x="428" y="137"> He's getting better at picking me back up."</text>
+
+  <text xml:space="preserve" class="t" x="428" y="174"><tspan class="key">operator</tspan><tspan class="val"> ......... Antonin Leroy</tspan></text>
+  <text xml:space="preserve" class="t" x="428" y="193"><tspan class="key">role</tspan><tspan class="val"> ............. MSc Robotics @ ETH Zurich</tspan></text>
+  <text xml:space="preserve" class="t" x="428" y="212"><tspan class="key">focus</tspan><tspan class="val"> ............ RL &amp; sim-to-real for legged and</tspan></text>
+  <text xml:space="preserve" class="t val" x="428" y="231">                   humanoid robots</text>
+  <text xml:space="preserve" class="t" x="428" y="250"><tspan class="key">also</tspan><tspan class="val"> ............. ROS 2, perception, control on real arms</tspan></text>
+
+  <text xml:space="preserve" class="t" x="428" y="287"><tspan class="key">github</tspan><tspan class="val"> ........... github.com/antonin-leroy</tspan></text>
+  <text xml:space="preserve" class="t" x="428" y="306"><tspan class="key">linkedin</tspan><tspan class="val"> ......... linkedin.com/in/antonin-leroy</tspan></text>
+  <text xml:space="preserve" class="t" x="428" y="325"><tspan class="key">mail</tspan><tspan class="val"> ............. antonin.leroy02@gmail.com</tspan></text>
+
+  <g class="art">
+    <text xml:space="preserve" x="24" y="56">            :::::</text>
+    <text xml:space="preserve" x="24" y="71">           -+*%#*+-</text>
+    <text xml:space="preserve" x="24" y="86">          =-===++++</text>
+    <text xml:space="preserve" x="24" y="101">          +-=+=*##+</text>
+    <text xml:space="preserve" x="24" y="116">           +#++++*+</text>
+    <text xml:space="preserve" x="24" y="131">           ===+##*</text>
+    <text xml:space="preserve" x="24" y="146">           +%#%#@#              </text>
+    <text xml:space="preserve" x="24" y="161">        ++**%%@%%#***#</text>
+    <text xml:space="preserve" x="24" y="176">    #==*+==++++++++++++++</text>
+    <text xml:space="preserve" x="24" y="191">   -+**#*-=====-===*#*#**+</text>
+    <text xml:space="preserve" x="24" y="206">   -*#%#*-=++++++++*#%%*=+-</text>
+    <text xml:space="preserve" x="24" y="221">   :=+* --=+++++++**+ *=---</text>
+    <text xml:space="preserve" x="24" y="236">  ::-=+ -:-++++++**=+</text>
+    <text xml:space="preserve" x="24" y="251">  :%@@* %=:+******++%</text>
+    <text xml:space="preserve" x="24" y="266">  =%@%   %-+******+%</text>
+    <text xml:space="preserve" x="24" y="281"> =*%%#    @#*****#@</text>
+    <text xml:space="preserve" x="24" y="296"> =*#%%   #%%@@@@@#@%</text>
+    <text xml:space="preserve" x="24" y="311"> :+**#  +**%@@@@@%#%#</text>
+    <text xml:space="preserve" x="24" y="326"> -#%##  %%%***##*#%%</text>
+    <text xml:space="preserve" x="24" y="341"> +#+%   %*+########*@=</text>
+    <text xml:space="preserve" x="24" y="356"> ++**  -+%@@%@##%#%%##-</text>
+    <text xml:space="preserve" x="24" y="371"> =-*   --#@%*   %#+**+--</text>
+    <text xml:space="preserve" x="24" y="386"> ++=   ---=#%#    %#*----</text>
+    <text xml:space="preserve" x="24" y="401">**#*=- -=--=*@    %%%=----</text>
+    <text xml:space="preserve" x="24" y="416">%%*% = -====*%     #%#----</text>
+    <text xml:space="preserve" x="24" y="431">-=+     ====+*      #*--+*=</text>
+    <text xml:space="preserve" x="24" y="446"> =++    -=*#*+       ===***=</text>
+    <text xml:space="preserve" x="24" y="461">         =###*        *+**#%%</text>
+    <g class="arm">
+      <text xml:space="preserve" x="301.2" y="131">++</text>
+      <text xml:space="preserve" x="293.5" y="146">=*+*</text>
+      <text xml:space="preserve" x="262.7" y="161">-+ %#+=+==</text>
+      <text xml:space="preserve" x="270.4" y="176">*##%%#=</text>
+      <text xml:space="preserve" x="270.4" y="191">=%#%%</text>
+      <text xml:space="preserve" x="262.7" y="206">-=+*</text>
+      <text xml:space="preserve" x="231.9" y="221">- %**%#</text>
+      <text xml:space="preserve" x="201.1" y="236">*=*%%%%@%%</text>
+      <text xml:space="preserve" x="208.8" y="251">++%*#%##</text>
+      <text xml:space="preserve" x="208.8" y="266">#+##*###</text>
+      <text xml:space="preserve" x="208.8" y="281">@*#%@%@</text>
+    </g>
+  </g>
+</svg>
