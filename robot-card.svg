@@ -33,8 +33,8 @@
   <text class="t head"  x="428" y="72">antonin-leroy@github</text>
   <text class="t dim"   x="428" y="91">------------------------------------------------------</text>
 
-  <text class="voice" x="428" y="118">"I'm the one he keeps knocking over in simulation.</text>
-  <text class="voice" x="428" y="137"> He's getting better at picking me back up."</text>
+  <text class="voice" x="428" y="118">"Every skill I have, he trained.</text>
+  <text class="voice" x="428" y="137"> Every bug I have, he wrote."</text>
 
   <text xml:space="preserve" class="t" x="428" y="174"><tspan class="key">operator</tspan><tspan class="val"> ......... Antonin Leroy</tspan></text>
   <text xml:space="preserve" class="t" x="428" y="193"><tspan class="key">role</tspan><tspan class="val"> ............. MSc specialization in Robotics @ ETH Zurich</tspan></text>
